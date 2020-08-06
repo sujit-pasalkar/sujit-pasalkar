@@ -7,6 +7,15 @@
 - 📫 How to reach me: [@pasalkar_sujit](https://twitter.com/pasalkar_sujit)
 - ⚡ Fun fact: I :heart: Tech
 
+### Connect with me:
+
+[<img align="left" alt="pasalkar_sujit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sujit_pasalkar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
