@@ -36,13 +36,7 @@
 
 ---
 
-
----
-
-
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="sujit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujit-pasalkar&show_icons=true&hide_border=true" />
 
 [website]: https://sujit-pasalkar.github.io
 [twitter]: https://twitter.com/pasalkar_sujit
