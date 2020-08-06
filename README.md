@@ -1,13 +1,11 @@
-### Hi there I'm Sujit👋
+### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently exploring deno js, GCP
-- 🤔 I’m looking for help with AI, ML
-- 💬 Ask me about javascript, typescript
-- 📫 How to reach me: [@pasalkar_sujit](https://twitter.com/pasalkar_sujit)
-- ⚡ Fun fact: I :heart: Tech
-
-<br/>
+## I'm a Husband, Father, Developer, and Teacher!
+- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
@@ -41,15 +39,38 @@
 <br />
 <br />
 
-<img align="left" alt="sujit-pasalkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujit-pasalkar&show_icons=true&hide_border=true" />
+---
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-TypeScript   3 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   33.34 % 
-Markdown     1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Python       1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Bash         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-JavaScript   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-```
-<!--END_SECTION:waka-->
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
+- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
+- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
+- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
