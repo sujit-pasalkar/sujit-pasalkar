@@ -1,10 +1,9 @@
 ### Hi there, I'm Sujit 👋
 
 - 🔭 I’m currently working on on something cool :wink:
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently exploring everything 🤣
+- 💬 Ask me about anything related to Javascript/Typescript/Angular
+- 📫 How to reach me: [@pasalkar_sujit](https://twitter.com/pasalkar_sujit)
 
 ### Connect with me:
 
