@@ -4,7 +4,7 @@
 - 🌱 I’m currently exploring deno js, GCP
 - 🤔 I’m looking for help with AI, ML
 - 💬 Ask me about javascript, typescript
-- 📫 How to reach me: [@pasalkar-sujit](https://twitter.com/pasalkar-sujit)
+- 📫 How to reach me: [@pasalkar_sujit](https://twitter.com/pasalkar_sujit)
 - ⚡ Fun fact: I :heart: Tech
 
 📊 **This week I spent my time on**
