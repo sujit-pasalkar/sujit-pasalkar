@@ -1,7 +1,7 @@
 ### Hi there, I'm Sujit 👋
 
 - 🔭 I’m currently working on on something cool :wink:
-- 🌱 I’m currently exploring everything 🤣
+- 🌱 I’m currently exploring redux/ngrx 🤣
 - 💬 Ask me about anything related to Javascript/Typescript/Angular
 - 📫 How to reach me: [@pasalkar_sujit](https://twitter.com/pasalkar_sujit)
 
