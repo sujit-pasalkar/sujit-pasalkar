@@ -1,9 +1,16 @@
-### Hi there, I'm Sujit 👋
+### 👋 Hi there! I'm Sujit Pasalkar, a passionate tech enthusiast who loves diving into the world of coding and creating exciting new projects. With a knack for innovation and a thirst for knowledge, I'm always exploring new horizons in the tech realm.
 
-- 🔭 I’m currently working on on something cool :wink:
-- 🌱 I’m currently exploring redux/ngrx 🤣
-- 💬 Ask me about anything related to Javascript/Typescript/Angular
-- 📫 How to reach me: [@pasalkar_sujit](https://twitter.com/pasalkar_sujit)
+
+💻 My coding journey revolves around various programming languages and technologies. Here's a glimpse of my skill set:
+
+Languages: JavaScript, TypeScript, HTML, CSS, and Sass
+Frameworks & Libraries: Angular, Node.js, and Express.js
+State Management: NGRX
+🚀 Whether it's crafting dynamic web applications, optimizing user experiences, or experimenting with the latest tech trends, I'm constantly seeking ways to push the boundaries of what's possible in the digital world.
+
+🌐 You'll often find me on GitHub, where I showcase my projects and collaborate with the amazing developer community. Join me on this coding adventure, and together, we can build something incredible!
+
+Let's connect and code the future! 🌟
 
 ### Connect with me:
 
