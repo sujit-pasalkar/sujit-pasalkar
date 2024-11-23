@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm Sujit Pasalkar,
-## I'm passionate tech enthusiast who loves diving into the world of coding and creating exciting new projects. With a knack for innovation and a thirst for knowledge, I'm always exploring new horizons in the tech realm.
+## 
 
 
 💻 My coding journey revolves around various programming languages and technologies. Here's a glimpse of my skill set:
