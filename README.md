@@ -1,6 +1,8 @@
 ### 👋 Hi there! I'm Sujit Pasalkar,
 ## 
 
+https://github-profile-trophy.vercel.app/?username=sujit-pasalkar&theme=onedark
+
 
 💻 My coding journey revolves around various programming languages and technologies. Here's a glimpse of my skill set:
 
