@@ -17,6 +17,8 @@ State Management: NGRX
 
 Let's connect and code the future! 🌟
 
+### Github trophies:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sujit-pasalkar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
